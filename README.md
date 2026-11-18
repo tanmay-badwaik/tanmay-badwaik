@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-badwaik&theme=tokyo-night&hide_border=true&days=365" alt="GitHub Contribution Activity" width="100%">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanmay-badwaik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Tanmay's GitHub statistics">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-badwaik&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-badwaik&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-badwaik&theme=tokyo-night&hide_border=true&days=365" alt="GitHub Contribution Activity" width="100%">
 
 </div>
 
